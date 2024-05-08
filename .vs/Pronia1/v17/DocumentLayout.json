@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Pronia1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|c:\\users\\asus\\desktop\\pronia1\\pronia1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\dataacceslayer\\pronia1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\dataacceslayer\\pronia1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|C:\\Users\\ASUS\\Desktop\\Pronia1\\pronia1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4023985-E12A-4716-980B-7566B10CBC07}|Pronia1\\Pronia1.csproj|solutionrelative:pronia1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "Pronia1\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "Pronia1\\Views\\Home\\index.cshtml",
+              "ViewState": "AQIAAIkEAAAAAAAAAAAAAJ8EAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T23:52:31.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Pronia1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Models\\Category.cs",
+              "RelativeToolTip": "Pronia1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:08:23.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pronia1Context.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\DataAccesLayer\\Pronia1Context.cs",
+              "RelativeDocumentMoniker": "Pronia1\\DataAccesLayer\\Pronia1Context.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\DataAccesLayer\\Pronia1Context.cs",
+              "RelativeToolTip": "Pronia1\\DataAccesLayer\\Pronia1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:56:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Pronia1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Pronia1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:32:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Product\\shop.cshtml",
+              "RelativeDocumentMoniker": "Pronia1\\Views\\Product\\shop.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Product\\shop.cshtml",
+              "RelativeToolTip": "Pronia1\\Views\\Product\\shop.cshtml",
+              "ViewState": "AQIAADEJAAAAAAAAAAAswEsJAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T22:29:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:21:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pronia1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Pronia1\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:09:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T15:40:30.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Program.cs",
+              "RelativeToolTip": "Pronia1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:23:53.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
