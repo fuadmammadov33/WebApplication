@@ -2,6 +2,8 @@
 {
     public class Category :BaseEntity
     {
+        internal bool isDeleted;
+
         public string Name { get; set; }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\Pronia1.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Pronia1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\Pronia1.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Pronia1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\Pronia1.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Pronia1.csproj",
         "projectName": "Pronia1",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\Pronia1.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Pronia1.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

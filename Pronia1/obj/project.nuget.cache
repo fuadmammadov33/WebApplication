@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGcdpKGuyPcKcK2sQjP5RDocrWVoTepP+0A6v8wKA9HbQ8qL8eKAPWO6QI2Fma0zXLtbj1IOf60moQmYemzhjA==",
+  "dgSpecHash": "/kXN7oikjTpPnQu+jMTZG+Qsfltm9vR6w4yFIhDXWgXm47a4WHokijXYjf37xrvG7uMLAAY8I7TEYJQ0T2jFNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Pronia1\\Pronia1\\Pronia1.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Pronia1\\Pronia1\\Pronia1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

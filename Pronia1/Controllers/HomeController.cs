@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia1.DataAccesLayer;
+using Pronia1.ViewModels.Categories;
 
 namespace Pronia1.Controllers
 {
@@ -14,7 +15,16 @@ namespace Pronia1.Controllers
         public async Task<IActionResult> Index()
         {
 
-            return View(await _context.Categories.ToListAsync());
+            var data = await _context.Categories
+              .Where(x => x.isDeleted == false)
+              .Select(x => new GetCategoryVM
+              {
+                  Id = x.Id,
+                  Name = x.Name,
+              })
+              
+             .ToListAsync();
+             return View(data);
         }
         public async Task<IActionResult> Contact()
         {
